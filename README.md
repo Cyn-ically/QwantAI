@@ -76,6 +76,9 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
+# Error
+
+One of the only error would be ```Exception: An error occurred while processing the Qwant search.``` it mean the AI just don't work on this research.
 # Disclaimer
 This project is provided for educational and informational purposes only. The creator of this package is not responsible for any misuse or damages caused by using this tool. Users are responsible for ensuring their usage complies with applicable laws and regulations.
 
