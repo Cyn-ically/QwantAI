@@ -4,6 +4,9 @@ QwantAI is a Python library that provides an easy-to-use interface for interacti
 
 ---
 
+## Important information
+
+- The AI feel like being French only, so if you are looking for something good (Already don't use this) and you have to put fr_FR (Default value)
 ## Features
 
 - Perform searches on Qwant using a simple Python function.
