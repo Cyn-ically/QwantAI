@@ -28,7 +28,7 @@ pip install QwantAI
 If you're developing locally, clone the repository and install it directly:
 
 ```
-git clone https://github.com/ramona-flower/QwantAI.git
+git clone https://github.com/cyn-ically/QwantAI.git
 cd QwantAI
 pip install .
 ```
